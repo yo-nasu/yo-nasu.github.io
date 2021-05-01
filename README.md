@@ -1,1 +1,1 @@
-# yo-nasu.sample.github.io
+# yo-nasu.github.io
