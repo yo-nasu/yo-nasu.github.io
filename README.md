@@ -1,1 +1,0 @@
-# yo-nasu.github.io
